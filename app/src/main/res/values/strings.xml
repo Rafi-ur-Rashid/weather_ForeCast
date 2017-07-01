@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">আবহাওয়া পূর্বাভাস</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather_day_list">WeatherDayList</string>
+    <string name="title_activity_popup_details">POPup_details</string>
+    <string name="btn_weather">GET WEATHER UPDATE</string>
+    <string name="textFirst">"আবহাওয়া পূর্বাভাস"</string>
+    <string name="title_activity_popup__details">POPup_Details</string>
+</resources>
